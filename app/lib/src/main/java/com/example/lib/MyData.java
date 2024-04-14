@@ -200,7 +200,7 @@ public class MyData {
 		System.out.println("Czas wykonania: " + duration + " milisekund");
 
 		//google maps
-		String apiKey = "AIzaSyDhS5faTpioB0ef-RWdBgAfsEUSpRa4Gm0"; // Replace with your Google Maps API key
+		String apiKey = "PUT_YOUR_API_KEY_HERE"; // Replace with your Google Maps API key
 		// PROSZE NIE UDOSTEPNIAC
 
 		//dane potrzebne do połaczenia z googlem
