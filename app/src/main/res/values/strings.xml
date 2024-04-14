@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">TTT</string>
     
-    <string name="my_map_api_key">AIzaSyDV6YsM2NIurDH7NBAZKXfY_O9k9bcpKmE</string>
+    <string name="my_map_api_key">PUT_YOUR_API_KEY_HERE</string>
         
 </resources>
