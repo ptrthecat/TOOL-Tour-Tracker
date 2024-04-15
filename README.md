@@ -1,3 +1,4 @@
+# Część praktyczna
 ## Zadanie 1
 - Stworzenie nowego projektu w Android Stuido oraz konfiguracja środowiska
   - uruchom środowisko i wybierz **Empty Views Activity**
