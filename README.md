@@ -1,3 +1,6 @@
+<img align="center" src="img/TTT_UI.png">
+
+
 # Część praktyczna
 ## Zadanie 1
 - Stworzenie nowego projektu w Android Stuido oraz konfiguracja środowiska
